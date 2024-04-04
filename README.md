@@ -1,6 +1,6 @@
 # trabalho_web_fatec
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE](https://github.com/ANAMARIAZAVA/trabalho_web_fatec/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ANAMARIAZAVA/trabalho_web_fatec/blob/main/LICENSE) 
 
 # Sobre o projeto
 
